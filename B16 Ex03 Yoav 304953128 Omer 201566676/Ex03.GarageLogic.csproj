@@ -39,17 +39,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bike.cs" />
-    <Compile Include="eBikeLicenseType.cs" />
-    <Compile Include="eFuelType.cs" />
-    <Compile Include="IsElectric.cs" />
-    <Compile Include="FuelBike.cs" />
-    <Compile Include="IsFueled.cs" />
+    <Compile Include="Abstract\Bike.cs" />
+    <Compile Include="Abstract\Car.cs" />
+    <Compile Include="Enums\eGarageTreatmentStatus.cs" />
+    <Compile Include="Vehicles\FuelCar.cs" />
+    <Compile Include="Vehicles\ElectricBike.cs" />
+    <Compile Include="Vehicles\ElectricCar.cs" />
+    <Compile Include="Enums\eBikeLicenseType.cs" />
+    <Compile Include="Enums\eFuelType.cs" />
+    <Compile Include="Interfaces\IsElectric.cs" />
+    <Compile Include="Vehicles\Truck.cs" />
+    <Compile Include="Vehicles\FuelBike.cs" />
+    <Compile Include="Interfaces\IsFueled.cs" />
     <Compile Include="GarageEntry.cs" />
     <Compile Include="GarageManager.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Vehicle.cs" />
+    <Compile Include="Abstract\Vehicle.cs" />
+    <Compile Include="Wheel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Exceptions\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

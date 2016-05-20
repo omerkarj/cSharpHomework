@@ -1,7 +1,10 @@
 ﻿namespace B16_Ex03_Yoav_304953128_Omer_201566676
 {
-    public class GarageEntry
+    public struct GarageEntry
     {
-         
+        public string OwnersName;
+        public string OwnersPhoneNumber;
+        public eGarageTreatmentStatus GarageTreatmentStatus;
+        public Vehicle Vehicle;
     }
 }
