@@ -1,2 +1,11 @@
 c:\users\yoav rosenbaum\documents\visual studio 2015\Projects\A17 Ex01 Yoav 304953128 Omer 201566676\Ex01.FacebookClient\bin\Debug\Ex01.FacebookClient.exe.config
 C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\cSharpHomework\Ex01.FacebookClient\bin\Debug\Ex01.FacebookClient.exe.config
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\cSharpHomework\Ex01.FacebookClient\bin\Debug\Ex01.FacebookClient.exe
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\cSharpHomework\Ex01.FacebookClient\bin\Debug\Ex01.FacebookClient.pdb
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\cSharpHomework\Ex01.FacebookClient\bin\Debug\Facebook.dll
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\cSharpHomework\Ex01.FacebookClient\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\cSharpHomework\Ex01.FacebookClient\obj\Debug\Ex01.FacebookClient.csprojResolveAssemblyReference.cache
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\cSharpHomework\Ex01.FacebookClient\obj\Debug\Ex01.FacebookClient.Properties.Resources.resources
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\cSharpHomework\Ex01.FacebookClient\obj\Debug\Ex01.FacebookClient.csproj.GenerateResource.Cache
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\cSharpHomework\Ex01.FacebookClient\obj\Debug\Ex01.FacebookClient.exe
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\cSharpHomework\Ex01.FacebookClient\obj\Debug\Ex01.FacebookClient.pdb
