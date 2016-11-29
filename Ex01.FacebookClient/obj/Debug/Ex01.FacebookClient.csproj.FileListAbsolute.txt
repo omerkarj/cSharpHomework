@@ -1,0 +1,2 @@
+c:\users\yoav rosenbaum\documents\visual studio 2015\Projects\A17 Ex01 Yoav 304953128 Omer 201566676\Ex01.FacebookClient\bin\Debug\Ex01.FacebookClient.exe.config
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\cSharpHomework\Ex01.FacebookClient\bin\Debug\Ex01.FacebookClient.exe.config
