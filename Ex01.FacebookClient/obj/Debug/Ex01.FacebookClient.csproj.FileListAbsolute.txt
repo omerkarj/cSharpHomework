@@ -9,3 +9,6 @@ C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\cSharpHomework\Ex
 C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\cSharpHomework\Ex01.FacebookClient\obj\Debug\Ex01.FacebookClient.csproj.GenerateResource.Cache
 C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\cSharpHomework\Ex01.FacebookClient\obj\Debug\Ex01.FacebookClient.exe
 C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\cSharpHomework\Ex01.FacebookClient\obj\Debug\Ex01.FacebookClient.pdb
+D:\School\שנה ג\design patterns\cSharpHomework\Ex01.FacebookClient\bin\Debug\Ex01.FacebookClient.exe.config
+D:\School\שנה ג\design patterns\cSharpHomework\Ex01.FacebookClient\obj\Debug\Ex01.FacebookClient.exe
+D:\School\שנה ג\design patterns\cSharpHomework\Ex01.FacebookClient\obj\Debug\Ex01.FacebookClient.pdb
