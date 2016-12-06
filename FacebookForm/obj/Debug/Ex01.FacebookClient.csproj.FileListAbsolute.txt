@@ -5,3 +5,13 @@ c:\users\yoav rosenbaum\documents\visual studio 2015\Projects\A17 Yoav 304953128
 c:\users\yoav rosenbaum\documents\visual studio 2015\Projects\A17 Yoav 304953128 Omer 201566676\FacebookForm\bin\Debug\FacebookForm.exe.config
 C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\A17 Yoav 304953128 Omer 201566676\FacebookForm\bin\Debug\FacebookForm.exe.config
 D:\School\שנה ג\design patterns\cSharpHomework\FacebookForm\bin\Debug\FacebookForm.exe.config
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\A17 Yoav 304953128 Omer 201566676\FacebookForm\bin\Debug\FacebookForm.exe
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\A17 Yoav 304953128 Omer 201566676\FacebookForm\bin\Debug\FacebookForm.pdb
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\A17 Yoav 304953128 Omer 201566676\FacebookForm\bin\Debug\Facebook.dll
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\A17 Yoav 304953128 Omer 201566676\FacebookForm\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\A17 Yoav 304953128 Omer 201566676\FacebookForm\obj\Debug\Ex01.FacebookClient.csprojResolveAssemblyReference.cache
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\A17 Yoav 304953128 Omer 201566676\FacebookForm\obj\Debug\FacebookForm.Form1.resources
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\A17 Yoav 304953128 Omer 201566676\FacebookForm\obj\Debug\FacebookForm.Properties.Resources.resources
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\A17 Yoav 304953128 Omer 201566676\FacebookForm\obj\Debug\Ex01.FacebookClient.csproj.GenerateResource.Cache
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\A17 Yoav 304953128 Omer 201566676\FacebookForm\obj\Debug\FacebookForm.exe
+C:\Users\Yoav Rosenbaum\Google Drive\School\DesignPatterns\Ex1\A17 Yoav 304953128 Omer 201566676\FacebookForm\obj\Debug\FacebookForm.pdb
