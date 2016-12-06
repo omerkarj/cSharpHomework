@@ -48,7 +48,6 @@
             this.buttonCheckins = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.labelDescMap2 = new System.Windows.Forms.Label();
             this.labelDescMap1 = new System.Windows.Forms.Label();
             this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
@@ -62,8 +61,9 @@
             this.listBoxCategories = new System.Windows.Forms.ListBox();
             this.groupBoxLikePage = new System.Windows.Forms.GroupBox();
             this.flowLayoutPanelBG = new System.Windows.Forms.FlowLayoutPanel();
-            this.pictureBoxLogo = new System.Windows.Forms.PictureBox();
             this.pictureBoxProfile = new System.Windows.Forms.PictureBox();
+            this.pictureBoxLogo = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.tabControl.SuspendLayout();
             this.facebookPage.SuspendLayout();
             this.groupBoxFeed.SuspendLayout();
@@ -72,12 +72,12 @@
             this.groupBoxFriends.SuspendLayout();
             this.checkinsPage.SuspendLayout();
             this.groupBoxCheckins.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.likesPage.SuspendLayout();
             this.groupBoxLikePages.SuspendLayout();
             this.groupBoxCategories.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLogo)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxProfile)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLogo)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // tabControl
@@ -265,11 +265,11 @@
             this.checkinsPage.Controls.Add(this.buttonCheckins);
             this.checkinsPage.Controls.Add(this.label2);
             this.checkinsPage.Controls.Add(this.label1);
-            this.checkinsPage.Controls.Add(this.pictureBox1);
             this.checkinsPage.Controls.Add(this.labelDescMap2);
             this.checkinsPage.Controls.Add(this.labelDescMap1);
             this.checkinsPage.Controls.Add(this.dateTimePicker2);
             this.checkinsPage.Controls.Add(this.dateTimePicker1);
+            this.checkinsPage.Controls.Add(this.pictureBox1);
             this.checkinsPage.Location = new System.Drawing.Point(4, 35);
             this.checkinsPage.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.checkinsPage.Name = "checkinsPage";
@@ -299,14 +299,14 @@
             this.listBoxCheckins.Location = new System.Drawing.Point(7, 25);
             this.listBoxCheckins.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.listBoxCheckins.Name = "listBoxCheckins";
-            this.listBoxCheckins.Size = new System.Drawing.Size(233, 497);
+            this.listBoxCheckins.Size = new System.Drawing.Size(233, 514);
             this.listBoxCheckins.TabIndex = 0;
             // 
             // buttonCheckins
             // 
             this.buttonCheckins.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(89)))), ((int)(((byte)(152)))));
             this.buttonCheckins.ForeColor = System.Drawing.Color.White;
-            this.buttonCheckins.Location = new System.Drawing.Point(588, 102);
+            this.buttonCheckins.Location = new System.Drawing.Point(588, 100);
             this.buttonCheckins.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.buttonCheckins.Name = "buttonCheckins";
             this.buttonCheckins.Size = new System.Drawing.Size(96, 39);
@@ -331,15 +331,6 @@
             this.label1.Size = new System.Drawing.Size(44, 19);
             this.label1.TabIndex = 5;
             this.label1.Text = "From";
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Location = new System.Drawing.Point(19, 158);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(715, 539);
-            this.pictureBox1.TabIndex = 4;
-            this.pictureBox1.TabStop = false;
             // 
             // labelDescMap2
             // 
@@ -442,7 +433,7 @@
             this.listBoxLikePages.Location = new System.Drawing.Point(7, 25);
             this.listBoxLikePages.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.listBoxLikePages.Name = "listBoxLikePages";
-            this.listBoxLikePages.Size = new System.Drawing.Size(289, 565);
+            this.listBoxLikePages.Size = new System.Drawing.Size(289, 582);
             this.listBoxLikePages.TabIndex = 0;
             // 
             // groupBoxCategories
@@ -465,7 +456,7 @@
             this.listBoxCategories.Location = new System.Drawing.Point(7, 25);
             this.listBoxCategories.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.listBoxCategories.Name = "listBoxCategories";
-            this.listBoxCategories.Size = new System.Drawing.Size(257, 565);
+            this.listBoxCategories.Size = new System.Drawing.Size(257, 582);
             this.listBoxCategories.TabIndex = 0;
             // 
             // groupBoxLikePage
@@ -488,16 +479,6 @@
             this.flowLayoutPanelBG.Size = new System.Drawing.Size(1157, 716);
             this.flowLayoutPanelBG.TabIndex = 0;
             // 
-            // pictureBoxLogo
-            // 
-            this.pictureBoxLogo.Image = global::FacebookForm.Properties.Resources.fb_white1;
-            this.pictureBoxLogo.Location = new System.Drawing.Point(19, 18);
-            this.pictureBoxLogo.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.pictureBoxLogo.Name = "pictureBoxLogo";
-            this.pictureBoxLogo.Size = new System.Drawing.Size(27, 25);
-            this.pictureBoxLogo.TabIndex = 0;
-            this.pictureBoxLogo.TabStop = false;
-            // 
             // pictureBoxProfile
             // 
             this.pictureBoxProfile.BackColor = System.Drawing.Color.White;
@@ -508,6 +489,25 @@
             this.pictureBoxProfile.Size = new System.Drawing.Size(168, 167);
             this.pictureBoxProfile.TabIndex = 4;
             this.pictureBoxProfile.TabStop = false;
+            // 
+            // pictureBoxLogo
+            // 
+            this.pictureBoxLogo.Image = global::FacebookForm.Properties.Resources.fb_white1;
+            this.pictureBoxLogo.Location = new System.Drawing.Point(19, 18);
+            this.pictureBoxLogo.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pictureBoxLogo.Name = "pictureBoxLogo";
+            this.pictureBoxLogo.Size = new System.Drawing.Size(27, 25);
+            this.pictureBoxLogo.TabIndex = 0;
+            this.pictureBoxLogo.TabStop = false;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(19, 158);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(715, 539);
+            this.pictureBox1.TabIndex = 4;
+            this.pictureBox1.TabStop = false;
             // 
             // Form1
             // 
@@ -532,13 +532,13 @@
             this.checkinsPage.ResumeLayout(false);
             this.checkinsPage.PerformLayout();
             this.groupBoxCheckins.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.likesPage.ResumeLayout(false);
             this.likesPage.PerformLayout();
             this.groupBoxLikePages.ResumeLayout(false);
             this.groupBoxCategories.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLogo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxProfile)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLogo)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
